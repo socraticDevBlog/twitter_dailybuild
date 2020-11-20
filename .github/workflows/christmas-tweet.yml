@@ -1,4 +1,4 @@
-name: Twitter message
+name: Christmas Twitter message
 
 on:
   schedule:
@@ -17,7 +17,7 @@ jobs:
       - name: Install Node modules
         run: npm install twit
       - name: Tweet message
-        run: node tweet.js
+        run: node christmas-tweet.js
         env:
           CONSUMER_KEY: ${{ secrets.CONSUMER_KEY }}
           CONSUMER_SECRET: ${{ secrets.CONSUMER_SECRET }}
