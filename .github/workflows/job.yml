@@ -2,7 +2,7 @@ name: Twitter message
 
 on:
   schedule:
-    - cron: "15 13 * * *"
+    - cron: "15 15 * * *"
 
 jobs:
   build:
