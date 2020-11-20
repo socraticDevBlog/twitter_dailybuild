@@ -26,5 +26,10 @@ const message = `👋 Hey there dailyfolks!.
 This is an automated message 🤖 to remind you that there are ${daysToXmas} days left to Christmas 🌟🧑‍🎄`;
 
 T.post("statuses/update", { status: message }, function (err, data, response) {
-  console.log(data);
+  if(err) {
+    console.log('caught error', err.stack)
+  }
+  else {
+    console.log(data);
+  }
 });
