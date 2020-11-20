@@ -14,14 +14,16 @@ const T = new Twit({
 });
 
 // stolen from https://www.w3resource.com/javascript-exercises/javascript-basic-exercise-9.php (2020-11-19)
-let today=new Date();
-let xmas=new Date(today.getFullYear(), 11, 25);
+var today=new Date();
+var xmas=new Date(today.getFullYear(), 11, 25);
 if (today.getMonth()==11 && today.getDate()>25) 
 {
     xmas.setFullYear(xmas.getFullYear()+1); 
 }  
-let one_day=1000*60*60*24;
-let daysToXmas = Math.ceil((cmas.getTime()-today.getTime())/(one_day);
+var one_day=1000*60*60*24;
+var daysToXmas = Math.ceil((xmas.getTime()-today.getTime())/(one_day));
+
+console.log(daysToXmas);
 
 const message = `👋 Hey there dailyfolks!.
 This is an automated message 🤖 to remind you that there's ${daysToXmas} days left to Christmas ♥️`;
