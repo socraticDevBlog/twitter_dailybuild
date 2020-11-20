@@ -23,7 +23,7 @@ var one_day = 1000 * 60 * 60 * 24;
 var daysToXmas = Math.ceil((xmas.getTime() - today.getTime()) / one_day);
 
 const message = `👋 Hey there dailyfolks!.
-This is an automated message 🤖 to remind you that there are ${daysToXmas} days left to Christmas 🌟🧑‍🎄`;
+This is an automated message 🤖 to remind you that there are ${daysToXmas} days left before Christmas 🌟🧑‍🎄`;
 
 T.post("statuses/update", { status: message }, function (err, data, response) {
   if(err) {
