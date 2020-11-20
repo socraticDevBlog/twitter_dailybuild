@@ -2,7 +2,7 @@ name: Twitter message
 
 on:
   schedule:
-    - cron: "15 8 * * *"
+    - cron: "15 12 * * *"
 
 jobs:
   build:
@@ -15,7 +15,7 @@ jobs:
         with:
           node_version: '14.15.1'
       - name: Install Node modules
-        run: npm i
+        run: npm install twit
       - name: Tweet message
         run: node tweet.js
         env:
