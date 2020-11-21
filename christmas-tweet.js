@@ -27,7 +27,7 @@ This is an automated message 🤖 to remind you that there are ${daysToXmas} day
 
 T.post("statuses/update", { status: message }, function (err, data, response) {
   if(err) {
-    console.log('caught error', err.stack)
+    console.log('caught error', err.stack);
   }
   else {
     console.log(data);
