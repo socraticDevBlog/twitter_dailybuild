@@ -1,4 +1,4 @@
-import Twit from "twit";
+const Twit = require("twit");
 
 // keys are already taken care of. github action will push them in here for us
 //
@@ -19,7 +19,7 @@ const T = new Twit({
 // populate the message you want to tweet, they submit a pull-request
 // ** if there is already a message in there: replace it with yours
 //
-var message = ""; //<------- *** enter your tweet ***
+var message = "any members of #dailybuild community can tweet from this account via github :)"; //<------- *** enter your tweet ***
 
 if (message) {
   T.post("statuses/update", { status: message }, function (
