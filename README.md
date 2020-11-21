@@ -1,5 +1,11 @@
 # twitter_dailybuild
-experience tweeting thru github actions
 
-im just copying this guy's blog post tutorial ->
-[https://dev.to/skippednote/using-github-actions-to-send-tweets-1n8d](https://dev.to/skippednote/using-github-actions-to-send-tweets-1n8d)
+any active member of IRC channel #dailybuild can post tweets from @dailybuild3 🦄😹
+(except for ``kenster``)
+
+## howto
+
+- clone this repo
+- edit file ``regular-tweet.js`` by writing your tweet to ``var message = "{ muh tweet content }"``
+- do the mandatory to voodoo to create a pull request
+- let ``socraticDev`` give a quick look and merge your submission 🏁
