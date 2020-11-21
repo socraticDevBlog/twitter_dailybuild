@@ -20,7 +20,7 @@ class TweetPoster {
         if (this.msg) {
             T.post(
                 "statuses/update",
-                { status: message },
+                { status: this.msg },
                 function (err, data, response) {
                     if (err) {
                         console.log("caught error", err.stack);
