@@ -1,9 +1,8 @@
 name: Regular Tweet job
 
 on:
-  push:
-    branches:
-      - main
+  schedule:
+    - cron: "20 15 5 1 2029"
 
 jobs:
   build:
