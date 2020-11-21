@@ -17,7 +17,7 @@ const T = new Twit({
 class TweetPoster {
     constructor(msg) {
         this.msg = msg;
-        if (message) {
+        if (this.msg) {
             T.post(
                 "statuses/update",
                 { status: message },
