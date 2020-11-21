@@ -5,5 +5,5 @@ const message = "not tweeting makes danny a dull boi"; //<------- *** enter your
 //
 // that's it ! dont worry about the code down under.
 
-let tweeter = require(tweet - module);
+let tweeter = require('./tweet-module');
 let posted = tweeter.TweetPoster(message);
