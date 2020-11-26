@@ -1,8 +1,8 @@
-name: Meme Twitter message
+name: meme Twitter message
 
 on:
   schedule:
-    - cron: "45 1 * * *"
+    - cron: "20 13 * * *"
 
 jobs:
   build:
