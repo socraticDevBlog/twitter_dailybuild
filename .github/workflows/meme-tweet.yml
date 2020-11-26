@@ -2,7 +2,7 @@ name: Meme Twitter message
 
 on:
   schedule:
-    - cron: "20 1 * * *"
+    - cron: "1 1 * * *"
 
 jobs:
   build:
@@ -17,7 +17,7 @@ jobs:
       - name: Install Node modules
         run: npm install twit
       - name: Tweet message
-        run: node christmas-tweet.js
+        run: node meme-tweet.js
         env:
           CONSUMER_KEY: ${{ secrets.CONSUMER_KEY }}
           CONSUMER_SECRET: ${{ secrets.CONSUMER_SECRET }}
