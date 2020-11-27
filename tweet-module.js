@@ -36,18 +36,24 @@ class TweetPoster {
 }
 
 class TweetMediaPoster {
-  constructor(base64encodedImg) {
-    T.post(
-      "media/upload",
-      { media_data: base64encodedImg },
-      function (err, data, response) {
+  constructor(statusMsg, base64encodedImg) {
+    T.post("media/upload", { media_data: base64encodedImg }, uploaded);
+
+    function uploaded(err, data, response) {
+      var id = data.media_id_string;
+      var tweet = {
+        status: statusMsg,
+        media_ids: [id],
+      };
+
+      T.post("statuses/update", tweet, function (err, data, response) {
         if (err) {
           console.log("caught error", err.stack);
         } else {
           console.log(data);
         }
-      }
-    );
+      });
+    }
   }
 }
 
