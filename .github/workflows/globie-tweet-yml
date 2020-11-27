@@ -2,7 +2,7 @@ name: globie Twitter image
 
 on:
   schedule:
-    - cron: "22 0 * * *"
+    - cron: "22 1 * * *"
 
 jobs:
   build:
