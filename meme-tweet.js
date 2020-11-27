@@ -1,12 +1,5 @@
 const data = require("./meme-data");
-
-const firstKey = 1;
-const numberItems = Object.keys(data).length;
-
-function randomIntFromInterval(min, max) {
-  // min and max included
-  return Math.floor(Math.random() * (max - min + 1) + min);
-}
+const util = require("./utils");
 
 // sebbu's algo
 function danknessoMeter(ups, downs) {
@@ -15,7 +8,8 @@ function danknessoMeter(ups, downs) {
   return dividend / divisor != 0 ? divisor : 1;
 }
 
-const meme = data[randomIntFromInterval(firstKey, numberItems)];
+const meme = data[util.randomizer(1, Object.keys(data).length)];
+
 const message = `today's meme is "${meme.title}" from ${
   meme.author
 } scoring at ${danknessoMeter(meme.ups, meme.downs)} 
