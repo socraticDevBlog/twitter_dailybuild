@@ -14,25 +14,44 @@ const T = new Twit({
   access_token_secret: ACCESS_TOKEN_SECRET,
 });
 
+const max_char = 257;
+
 class TweetPoster {
-    constructor(msg) {
-        this.msg = msg;
-        if (this.msg) {
-            T.post(
-                "statuses/update",
-                { status: this.msg },
-                function (err, data, response) {
-                    if (err) {
-                        console.log("caught error", err.stack);
-                    } else {
-                        console.log(data);
-                    }
-                }
-            );
+  constructor(msg) {
+    this.msg = String(msg);
+    if (this.msg && this.msg.length <= max_char) {
+      T.post(
+        "statuses/update",
+        { status: this.msg },
+        function (err, data, response) {
+          if (err) {
+            console.log("caught error", err.stack);
+          } else {
+            console.log(data);
+          }
         }
+      );
     }
+  }
+}
+
+class TweetMediaPoster {
+  constructor(base64encodedImg) {
+    T.post(
+      "media/upload",
+      { media_data: base64encodedImg },
+      function (err, data, response) {
+        if (err) {
+          console.log("caught error", err.stack);
+        } else {
+          console.log(data);
+        }
+      }
+    );
+  }
 }
 
 module.exports = {
   TweetPoster: TweetPoster,
+  TweetMediaPoster: TweetMediaPoster,
 };
