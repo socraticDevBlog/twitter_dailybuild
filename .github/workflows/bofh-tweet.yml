@@ -2,7 +2,7 @@ name: BOFH excuse Twitter message
 
 on:
   schedule:
-    - cron: "37 13 * * *"
+    - cron: "37 0 * * *"
 
 jobs:
   build:
