@@ -2,7 +2,7 @@ name: meme Twitter message
 
 on:
   schedule:
-    - cron: "56 2 * * *"
+    - cron: "56 14 * * *"
 
 jobs:
   build:
