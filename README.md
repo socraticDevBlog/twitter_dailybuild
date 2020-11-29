@@ -1,4 +1,4 @@
-# twitter_dailybuild
+# twitter_dailybuild🤖🐦
 
 any active member of IRC channel #dailybuild can post tweets from @dailybuild3 🦄😹
 (except for ``kenster``)
