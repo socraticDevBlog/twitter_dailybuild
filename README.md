@@ -9,3 +9,10 @@ any active member of IRC channel #dailybuild can post tweets from @dailybuild3 
 - edit file ``regular-tweet.js`` by assigning your tweet message to ``const message = "{ muh tweet content }"``
 - do the mandatory voodoo to create a pull request
 - let ``socraticDev`` give a quick look and merge your submission üèÅ
+
+## automated tweeting scripts
+
+| name           | file name    | description  |data           | author       | example      |
+| :------------- | :----------: | -----------: |:------------- | :----------: | -----------: |
+|regular tweet   |regular-tweet.js | user can submit a tweet then open pull-requer Or pass an msg argument to this file| none or command-line arg| socraticDev ||
+|bofh-excuses|bofh-post.sh|pick a quote in sequential order in file|.txt|luxemboye|![capture of a bofh tweet](./captures/bofh-capture.png)|
