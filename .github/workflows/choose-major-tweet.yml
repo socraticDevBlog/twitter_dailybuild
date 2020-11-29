@@ -1,9 +1,8 @@
-name: test major Tweet job
+name: choose major Tweet job
 
 on:
-  push:
-    branches:
-      - main
+  schedule:
+    - cron: "37 20 * * *"
 
 jobs:
   build:

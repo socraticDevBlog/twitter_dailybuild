@@ -37,7 +37,7 @@ function msg(maj) {
         maj.Major
     } earned an average of ${maj.Median}$ unless they where part of the ${(
         maj.Unemployment_rate * 100
-        ).toFixed(2)} % who remained unemployed. (source: https://53eig.ht/33qBbVy)`;
+        ).toFixed(2)} % who remained unemployed.`;
     }
     
 let majors = [];
@@ -57,3 +57,6 @@ const converter = csv()
       msg(majors[utils.randomizer(0, majors.length)])
     );
   });
+
+// source : https://fivethirtyeight.com/features/the-economic-guide-to-picking-a-college-major/
+// dataset -> https://data.fivethirtyeight.com/
