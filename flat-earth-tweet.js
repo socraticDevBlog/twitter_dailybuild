@@ -6,7 +6,7 @@ const messages = [
   "flat earthers: get real ... quick!!💨",
   "conspiracy is just dumb 🤦",
   "🧙🏾 do u also believe in cooties, flat-earthers? 😛",
-  "🧭 get real. it's about time, globies  ⌛"
+  "🧭 get real. it's about time, globies⌛"
 ];
 
 const prefix = "https://globie-info.neet.cloud/";
