@@ -17,3 +17,4 @@ any active member of IRC channel #dailybuild can post tweets from @dailybuild3 ð
 |regular tweet   |regular-tweet.js | user can submit a tweet then open pull-requer Or pass an msg argument to this file| none or command-line arg| socraticDev ||
 |bofh-excuses|bofh-post.sh|pick a tech-related funny quote in sequential order in file|.txt|luxemboye|![capture of a bofh tweet](./captures/bofh-capture.png)|
 |christmas-tweet|christmas-tweet.js|tweets number of days before Xmas|none|socraticDev|![capture of a xmas tweet](./captures/xmas-capture.png)|
+|meme-tweet|meme-tweet.js|post a meme linky, meme's title and author, and dankness rating|.json|socraticDev|![capture of a meme tweet](./captures/meme-capture.png)|
