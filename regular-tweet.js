@@ -1,9 +1,17 @@
+let tweeter = require("./tweet-module");
+
+const COMMAND_LINE_ARGS_1_IDX = 2;
+
 // populate the message you want to tweet, then submit a pull-request
 // ** if there is already a message in there: replace it with yours
 //
-const message = "✨✨ major head pats to member 'luxemboye' who crafted a based dailyscript✨✨"; //<------- *** enter your tweet ***
+var message = ""; //<------- *** enter your tweet ***
 //
 // that's it ! dont worry about the code down under.
 
-let tweeter = require('./tweet-module');
+// if msg passed as command-line argument, overwrite original message
+if (process.argv.length > 2) {
+  message = process.argv[COMMAND_LINE_ARGS_1_IDX];
+}
+
 let posted = new tweeter.TweetPoster(message);

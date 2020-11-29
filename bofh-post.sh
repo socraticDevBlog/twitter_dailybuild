@@ -8,4 +8,4 @@ FILELINE=$(( ($DAYS % $QUOTELINES) + 1 ))
 
 QUOTE=$(sed "${FILELINE}q;d" $1)
 MESSAGE="Computer brokie: $QUOTE"
-node bash-post-to-twitter.js "$MESSAGE"
+node regular-tweet.js "$MESSAGE"
