@@ -19,3 +19,4 @@ any active member of IRC channel #dailybuild can post tweets from @dailybuild3 ð
 |christmas-tweet|christmas-tweet.js|tweets number of days before Xmas|none|socraticDev|![capture of a xmas tweet](./captures/xmas-capture.png)|
 |meme-tweet|meme-tweet.js|post a meme linky, meme's title and author, and dankness rating|.json|socraticDev|![capture of a meme tweet](./captures/meme-capture.png)|
 |flat-earth-tweet|flat-earth-tweet.js|post a picture of a flat-earth funny img and a randomly pick text|.json and query Googlebot's server for the image|socraticDev|![capture of a flat-earth-tweet](./captures/flat-earth-capture.png)|
+|choose-major-tweet|choose-major-tweet.js|post about a specific college major, median income after graduation, and unemployment rate|.csv|socraticDev|![capture of a choose-major-tweet](./captures/choose-major-capture.png)|
