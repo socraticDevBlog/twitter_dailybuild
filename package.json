@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "twit": "^2.2.11"
+    "twit": "^2.2.11",
+    "csvtojson": "^2.0.10"
   }
 }
