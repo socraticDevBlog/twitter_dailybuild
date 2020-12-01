@@ -1,9 +1,9 @@
-# twitter_dailybuild🤖🐦
+## self-service tweeting
 
 any active member of IRC channel #dailybuild can post tweets from @dailybuild3 🦄😹
 (except for `kenster`)
 
-## howto
+### howto
 
 - clone this repo
 - edit file `regular-tweet.js` by assigning your tweet message to `const message = "{ muh tweet content }"`
@@ -11,6 +11,8 @@ any active member of IRC channel #dailybuild can post tweets from @dailybuild3 �
 - let `socraticDev` give a quick look and merge your submission 🏁
 
 ## automated tweeting scripts
+
+Almost all @dailybuild3's tweets are posted from automated scripts on a cron job. Here's a list of the scripts:
 
 | name               |       file name       |                                                                                                                                     description | data source                                      |   author    |                                                                 example |
 | :----------------- | :-------------------: | ----------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------- | :---------: | ----------------------------------------------------------------------: |
