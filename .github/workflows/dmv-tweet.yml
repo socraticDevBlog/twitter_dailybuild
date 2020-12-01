@@ -1,9 +1,8 @@
 name: DMV Tweet job
 
 on:
-  push:
-    branches:
-      - main
+  schedule:
+    - cron: "20 20 * * *"
 
 jobs:
   build:
