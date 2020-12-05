@@ -2,6 +2,11 @@
 let today = new Date();
 let xmas = new Date(today.getFullYear(), 11, 25);
 
+// we dont want to think about xmas anymore past december 25th
+if (today > xmas ) {
+  return;
+}
+
 if (today.getMonth() == 11 && today.getDate() > 25) {
   xmas.setFullYear(xmas.getFullYear() + 1);
 }
