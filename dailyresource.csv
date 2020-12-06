@@ -1,7 +1,5 @@
 Title,Description,Link
-dyalog,"an APL-based development environment that 
-allows both subject matter experts and IT specialists to efficiently 
-convert ideas into software solutions.",https://www.dyalog.com/
+dyalog,an APL-based development environment that \nallows both subject matter experts and IT specialists to efficiently \nconvert ideas into software solutions.,https://www.dyalog.com/
 oso,authorization for developers,https://www.osohq.com/
 installing OMV nas,installing open media vault nas,https://wiki.odroid.com/odroid-hc4/software/install_omv_nas
 linux to windows,accessing linux partitions from windows,https://www.howtogeek.com/112888/3-ways-to-access-your-linux-partitions-from-windows/
@@ -19,8 +17,7 @@ S-expression,S-expressions (or symbolic expressions, abbreviated as sexprs) are 
 Tom Chi,leader of Google X,https://www.tomchi.com/
 xmpp,,
 Engineering and Careering,A VIEW OF TECHNICAL LEADERSHIP,http://www.engineeringandcareering.co.uk/
-teknik,"encryptedfile updload,pastebin,git, podcast, mumble server
-        ",https://teknik.io/
+teknik,"encryptedfile updload,pastebin,git, podcast, mumble server",https://teknik.io/
 pine64,Open. Friendly. Community Driven. | PINE64,https://www.pine64.org/
 Sithjester's RMXP Resources,sprite sheets of characters,https://untamed.wild-refuge.net/rmxpresources.php?characters
 debian handbook,The Debian Administrator's Handbook,https://debian-handbook.info/browse/stable/
@@ -30,7 +27,7 @@ fearless salary negotiation,Performance,https://fearlesssalarynegotiation.com/
 docopt,Command-line interface description language,http://docopt.org/
 Utility Argument Syntax,,https://pubs.opengroup.org/onlinepubs/9699919799/basedefs/V1_chap12.html
 argparse,python argument parser library,https://docs.python.org/3/library/argparse.html
-sendmail,sending mails from linux,"https://linux.die.net/man/8/sendmail.sendmail , https://stackoverflow.com/questions/33802224/how-do-i-send-an-email-through-unix-sendmail-command"
+sendmail,sending mails from linux,https://linux.die.net/man/8/sendmail.sendmail , https://stackoverflow.com/questions/33802224/how-do-i-send-an-email-through-unix-sendmail-command
 crontab,cron job info,https://crontab.guru
 Contabo,german cloud provider,https://contabo.com/
 Hertzner,cloud provider,https://www.hetzner.com/
@@ -46,10 +43,7 @@ puppeteer,headless web client,https://pptr.dev/
 lsp#,language server protocol,https://langserver.org/
 Radar,programme open-source de Axa France valider la fiabilité de librairies externes,https://github.com/axa-group/radar
 redshift,gentoo os,https://wiki.gentoo.org/wiki/Redshift
-monkey functions,"Write more elegant Azure Functions with less boilerplate, more
-consistency, and support for REST APIs. Docs can be found at https://functionmonkey.azurefromthetrenches.com
-        
-  ",https://github.com/JamesRandall/FunctionMonkey
+monkey functions,"Write more elegant Azure Functions with less boilerplate, more\nconsistency, and support for REST APIs. Docs can be found at https://functionmonkey.azurefromthetrenches.com",https://github.com/JamesRandall/FunctionMonkey
 serverless functions,AWS Lambda vs. Azure Functions vs. Google Functions,https://logz.io/blog/serverless-guide/
 Generic Programming,,
 c++ coding rules,Joint Strike Figher C++ guidelines by Bjourne Strousoup,http://www.stroustrup.com/JSF-AV-rules.pdf
@@ -66,8 +60,7 @@ Credence Goods,goods and services whose sellers are also experts who determine t
 bgp,border gateway protocol,https://www.wikiwand.com/en/Border_Gateway_Protocol
 801labs,A Community Hackerspace for Information Technology, Electronics, and Information Security Enthusiasts,https://www.801labs.org/
 elasticity,—the ability to handle bursts of requests. (not all scalable systems are elastic),
-"Architecture Kata
-",,
+Architecture Kata,,
 FsCheck,Random Testing for .NET,https://github.com/fscheck/FsCheck
 LCOM,metrics measuring structural lack of cohesion,
 EPPlus,create advanced Excel spreadsheets using .net,https://www.nuget.org/packages/EPPlus/
@@ -79,18 +72,15 @@ zig,programming language,https://ziglang.org/
 functional versioning,,
 semantic versioning,,
 Ludum Dare,online event where games are made from scratch in a weekend,https://ldjam.com/
-Interview Cake,"Programming Interview Questions
-",https://www.interviewcake.com/
+Interview Cake,Programming Interview Questions,https://www.interviewcake.com/
 Git Flow,code management process,https://leanpub.com/git-flow/read
-Jeffrey Snover,"Powershell guru
-",https://en.wikipedia.org/wiki/Jeffrey_Snover?oldformat=true
+Jeffrey Snover,Powershell guru,https://en.wikipedia.org/wiki/Jeffrey_Snover?oldformat=true
 package management,tools that automates the process of installing, upgrading, configuring, and removing computer programs for a computer's operating system in a consistent manner,https://en.wikipedia.org/wiki/Package_manager?oldformat=true
 Annotated Türing,AGuidedTourthroughAlanTuring'sHistoricPaperonComputabilityandtheTuringMachine,www.TheAnnotatedTunng.com
 smtp4dev,tool which any developer who is creating and sending emails should at least check out,https://brucemcmillansblog.wordpress.com/2012/10/24/tools-for-the-developer-smtp4dev/
 message queue,message queue provides temporary message storage when the destination program is busy or not connected,https://en.wikipedia.org/wiki/Message_queue?oldformat=true
 smart questions,how to ask questions,https://catb.org/~esr/faqs/smart-questions.html
-irc channel FAQ,"basic linux questions
-",https://www.total-knowledge.com/~ilya/mips/
+irc channel FAQ,basic linux questions,https://www.total-knowledge.com/~ilya/mips/
 anti-corruption layer,set of Façades, Adapters and Translators to isolate a model from corruption by other models it needs to integrate with,https://dev.to/asarnaout/the-anti-corruption-layer-pattern-pcd
 signalR,library for ASP.NET that allows server code to send asynchronous notifications to client-side web applications,https://dotnet.microsoft.com/apps/aspnet/signalr
 archunit,enforcing java architecture compliance,https://www.archunit.org/
@@ -104,20 +94,12 @@ linuxquestions dot org,a friendly and active Linux Community,LinuxQuestions.org
 Hiring Without WhiteBoards,companies with better hiring processes,https://github.com/poteto/hiring-without-whiteboards
 Project Euler,more difficult programming problems,https://projecteuler.net/
 Interview Cake,coding job interview preparation,https://www.interviewcake.com/
-StackShare,"Find the right developer tools and the companies that use them
-
-
-
-
-
-
-
-",https://stackshare.io/
+StackShare,Find the right developer tools and the companies that use them,https://stackshare.io/
 builtwith.com,Find out what websites are Built With,
 USP,a factor that differentiates a product from its competitors,https://whatis.techtarget.com/definition/unique-selling-point-USP
 docassemble,open-source expert system for guided interviews and document assembly,https://docassemble.org/
 jupyter notebook,documents containing both code  and rich text content,https://jupyter.org
-SLA ,service level agreement,
+SLA,service level agreement,
 RDD,resilient distributed dataset,
 Parquet,Parquet stores nested data structures in a flat columnar format,https://acadgild.com/blog/parquet-file-format-hadoop
 deno, le nouveau nodeJS ?,https://www.jesuisundev.com/deno-le-nouveau-nodejs/
@@ -206,7 +188,7 @@ John Ousterhout,My favorites sayings,https://web.stanford.edu/~ouster/cgi-bin/sa
 jibberjobber,crm for job seekers,https://www.jibberjobber.com/login.php
 XML Schema Definition file,(XSD) defines the structure of an XML document,https://www.w3schools.com/xml/schema_intro.asp
 Document Type Definition file,(DTD) defines the structure of an XML document.,https://www.w3schools.com/xml/xml_dtd.asp
-free formatter,utility website ,https://www.freeformatter.com/
+free formatter,utility website,https://www.freeformatter.com/
 writing logs in Python,,https://pymotw.com/2/logging/
 ELK stack,logging framework for serious stuff happening in the cloud,https://hackernoon.com/elastic-stack-a-brief-introduction-794bc7ff7d4f
 ruby Sinatra,nice slides explaining stuff,https://fr.slideshare.net/BobNadlerJr/sinatra-flatiron
@@ -222,8 +204,7 @@ self repairing program in C,llvm C self repairing program,https://docs.google.co
 Nim in action,nice book to start learnings nim programming langage,https://www.manning.com/books/nim-in-action
 ncurses,portable screen-handling for linux,https://www.linuxjournal.com/content/getting-started-ncurses
 select(),system call to examine status of file descriptors,https://www.wikiwand.com/en/Select_(Unix)
-"Ranger branching guide
-",Microsoft's version control system setup guide,https://vsardata.blob.core.windows.net/projects/TFS%20Version%20Control%20Part%201%20-%20Branching%20Strategies.pdf
+Ranger branching guide,Microsoft's version control system setup guide,https://vsardata.blob.core.windows.net/projects/TFS%20Version%20Control%20Part%201%20-%20Branching%20Strategies.pdf
 gunning fog index,a readability test for English writing,https://www.wikiwand.com/en/Gunning_fog_index
 the Recurse center,self-directed, community-driven educational retreat for programmers in New York City.,https://www.recurse.com/
 42 school,free IT academy in Paris,https://www.wikiwand.com/en/42_(school)
@@ -240,25 +221,24 @@ grub2,replacement for the original GRUB boot loader,https://wiki.gentoo.org/wiki
 TMUX2,increases productivity with multiple terminals,https://github.com/tmux/tmux/wiki
 contrast checker,UI UX tool to check contrast,https://snook.ca/technical/colour_contrast/colour.html#fg=33FF33,bg=333333
 Dragon,speech recognition software,https://www.nuance.com/dragon.html
-Oracle pl/sql ,how to debug a package (aka Stored procedure),https://www.youtube.com/watch?v=UAXKaUX1muY
+Oracle pl/sql,how to debug a package (aka Stored procedure),https://www.youtube.com/watch?v=UAXKaUX1muY
 Raven DB,noSQL acid database,https://ravendb.net/
-Oren Eini aka Ayende Rahien,"blog from a data access specialist
-",https://ayende.com/blog/
+Oren Eini aka Ayende Rahien,blog from a data access specialist,https://ayende.com/blog/
 .data(),jQuery API documentation for data attributes,https://api.jquery.com/data/
 using data attributes,(front-end web programming),https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto/Use_data_attributes
 chocolatey,The sane way to manage software on Windows,https://chocolatey.org/
 dependency injection basics,in Asp.net Core,https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-2.2
 n + 1 selects problem,in ORM,https://stackoverflow.com/questions/97197/what-is-the-n1-selects-problem-in-object-relational-mapping#
 jit,just in time compilation,https://stackoverflow.com/questions/95635/what-does-a-just-in-time-jit-compiler-do
-aspect-oriented programming,programming paradigm that aims to increase modularity ,https://www.wikiwand.com/en/Aspect-oriented_programming
+aspect-oriented programming,programming paradigm that aims to increase modularity,https://www.wikiwand.com/en/Aspect-oriented_programming
 cozy bear,,https://www.wikiwand.com/en/Cozy_Bear
 Underactuated robotics,algorithms for different kinds of movements,http://underactuated.csail.mit.edu/underactuated.html
 going solo,how to set up as a freelance consultant,https://kev.inburke.com/kevin/going-solo-successfully/
 ,arguments against single-page applications (js frontend frameworks),https://journal.plausible.io/you-probably-dont-need-a-single-page-app
 Book of secret knowledge,resources interesting to hackers, security xPerts, devops,https://github.com/trimstray/the-book-of-secret-knowledge
-Linus' law,"""given enough eyeballs, all bugs are shallow""",
+Linus' law,"given enough eyeballs, all bugs are shallow",
 bootstrapping,usually refers to a self-starting process that is supposed to proceed without external input,https://www.wikiwand.com/en/Bootstrapping
-self-reference ,when a sentence, idea or formula refers to itself,https://www.wikiwand.com/en/Self-reference
+self-reference,when a sentence, idea or formula refers to itself,https://www.wikiwand.com/en/Self-reference
 year 2038 problem,problem of representing time as a 32-bit integer,https://www.wikiwand.com/en/Year_2038_problem
 Bugzilla,server software designed to help you manage software development.,https://www.bugzilla.org/
 linux swear words count,,https://www.vidarholen.net/contents/wordcount/#fuck*,shit*,damn*,idiot*,retard*
@@ -298,17 +278,16 @@ git-annex,managing files with git, without checking the file contents into git,h
 How to Design Programs,little brother to SICP,https://htdp.org/2018-01-06/Book/index.html
 book of proof,,https://www.people.vcu.edu/~rhammack/BookOfProof/
 discrete maths,free discrete maths textbook,http://discrete.openmathbooks.org/dmoi3.html
-list maths textbooks,American institute of Mathematics approved textbooks ,https://aimath.org/textbooks/approved-textbooks/
+list maths textbooks,American institute of Mathematics approved textbooks,https://aimath.org/textbooks/approved-textbooks/
 The Phoenix Project,novel : lean in IT, devops,https://www.amazon.ca/Phoenix-Project-DevOps-Helping-Business/dp/0988262592
 Poignant Guide,Guide to Ruby,https://poignant.guide/book/
 Apache Guacamole,ssh to your PC from any webbrowser,https://guacamole.apache.org/
 interview prep,,https://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html
-Algorithm design manual,using algos and data structures to solve common problems,"http://www.algorist.com/
-"
+Algorithm design manual,using algos and data structures to solve common problems,http://www.algorist.com/
 Steve Yegge,influential engineer blogger,https://www.wikiwand.com/en/Steve_Yegge
 sourcerer,visual analysis of library use,https://sourcerer.io/
 guerilla mail,disposable temporary email address,https://www.guerrillamail.com/
-grids ,dynamic grid layout,https://github.com/e-oj/Magic-Grid
+grids,dynamic grid layout,https://github.com/e-oj/Magic-Grid
 dark patterns UI design,Dark Patterns are tricks used in websites,https://darkpatterns.org/
 ECMAScript 6,new version of Javascript,http://exploringjs.com/es6/
 typography : quotation marks,proper quote marks relative to context (english language),http://smartquotesforsmartpeople.com/
@@ -326,5 +305,4 @@ temporary file hosting,,https://uguu.se/
 Intel C++ Compiler,,https://www.wikiwand.com/en/Intel_C%2B%2B_Compiler
 VHDL,Hardware Description Language,https://www.wikiwand.com/en/VHDL
 normalize.css,A modern, HTML5-ready alternative to CSS resets,https://necolas.github.io/normalize.css/
-"ABAP
-",SAP's 4th gen language,https://www.wikiwand.com/en/ABAP
+ABAP,SAP's 4th gen language,https://www.wikiwand.com/en/ABAP
