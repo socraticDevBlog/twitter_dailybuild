@@ -1,0 +1,331 @@
+Title,Description,Link
+dyalog,"an APL-based development environment that 
+allows both subject matter experts and IT specialists to efficiently 
+convert ideas into software solutions.",https://www.dyalog.com/
+oso,authorization for developers,https://www.osohq.com/
+installing OMV nas,installing open media vault nas,https://wiki.odroid.com/odroid-hc4/software/install_omv_nas
+linux to windows,accessing linux partitions from windows,https://www.howtogeek.com/112888/3-ways-to-access-your-linux-partitions-from-windows/
+nas setup,what Googlebot is trying to achieve,https://gist.github.com/MawKKe/caa2bbf7edcc072129d73b61ae7815fb
+odroidhc4,toaster nas,https://www.hardkernel.com/shop/odroid-hc4/
+self hosted app,Self-hosting is the practice of locally hosting and managing applications instead of renting from SaaSS providers.,https://github.com/awesome-selfhosted/awesome-selfhosted
+b2bquotes,plateform projet,https://b2bquotes.com/en/index.snc
+soldierx,,https://www.soldierx.com
+owasp,owasp cheatsheet,https://cheatsheetseries.owasp.org/cheatsheets/DotNet_Security_Cheat_Sheet.html
+DSLFIN,Workshop on Domain-Specific Languages for Financial Systems,https://www.dslfin.org/resources.html
+lwn.net,reader-supported news site dedicated to producing the best coverage from within the Linux and free software development communities,https://lwn.net/
+,compare salaries,https://www.levels.fyi/
+isc^2 code of ethics,,https://www.isc2.org/ethics
+eccouncile code of ethics,code of ethics for penetration testing and ethical hacking,https://www.eccouncil.org/code-of-ethics/
+S-expression,S-expressions (or symbolic expressions, abbreviated as sexprs) are a notation for nested list (tree-structured) data,https://www.wikiwand.com/en/S-expression
+Tom Chi,leader of Google X,https://www.tomchi.com/
+xmpp,,
+Engineering and Careering,A VIEW OF TECHNICAL LEADERSHIP,http://www.engineeringandcareering.co.uk/
+teknik,"encryptedfile updload,pastebin,git, podcast, mumble server
+        ",https://teknik.io/
+pine64,Open. Friendly. Community Driven. | PINE64,https://www.pine64.org/
+Sithjester's RMXP Resources,sprite sheets of characters,https://untamed.wild-refuge.net/rmxpresources.php?characters
+debian handbook,The Debian Administrator's Handbook,https://debian-handbook.info/browse/stable/
+Metasploitable,computer security project that provides information about security vulnerabilities,https://www.metasploit.com/
+phoronix,Linux Hardware Reviews, Open-Source Benchmarks & Linux,https://www.phoronix.com/scan.php?page=home
+fearless salary negotiation,Performance,https://fearlesssalarynegotiation.com/
+docopt,Command-line interface description language,http://docopt.org/
+Utility Argument Syntax,,https://pubs.opengroup.org/onlinepubs/9699919799/basedefs/V1_chap12.html
+argparse,python argument parser library,https://docs.python.org/3/library/argparse.html
+sendmail,sending mails from linux,"https://linux.die.net/man/8/sendmail.sendmail , https://stackoverflow.com/questions/33802224/how-do-i-send-an-email-through-unix-sendmail-command"
+crontab,cron job info,https://crontab.guru
+Contabo,german cloud provider,https://contabo.com/
+Hertzner,cloud provider,https://www.hetzner.com/
+Hyperglot,Lightweight Markup: Markdown, reStructuredText, MediaWiki, AsciiDoc, Org-mode,https://hyperpolyglot.org/lightweight-markup
+yaymukund’s weblog ^_^,change a name to avoid being racist,https://blog.yaymukund.com/posts/whats-in-a-name/
+nix,package manager for Linux,https://github.com/NixOS/nixpkgs/tree/master/nixos/modules/services/misc
+QT,development cycle framework,https://www.qt.io/
+Codeplex,CodePlex was a forge website by Microsoft,https://www.wikiwand.com/en/CodePlex
+pony,programming language,https://www.ponylang.io/
+python good practices,,http://eikke.com/how-not-to-write-python-code/index.html
+request-htmls,python html parser library,https://requests.readthedocs.io/projects/requests-html/en/latest/
+puppeteer,headless web client,https://pptr.dev/
+lsp#,language server protocol,https://langserver.org/
+Radar,programme open-source de Axa France valider la fiabilité de librairies externes,https://github.com/axa-group/radar
+redshift,gentoo os,https://wiki.gentoo.org/wiki/Redshift
+monkey functions,"Write more elegant Azure Functions with less boilerplate, more
+consistency, and support for REST APIs. Docs can be found at https://functionmonkey.azurefromthetrenches.com
+        
+  ",https://github.com/JamesRandall/FunctionMonkey
+serverless functions,AWS Lambda vs. Azure Functions vs. Google Functions,https://logz.io/blog/serverless-guide/
+Generic Programming,,
+c++ coding rules,Joint Strike Figher C++ guidelines by Bjourne Strousoup,http://www.stroustrup.com/JSF-AV-rules.pdf
+,regex exercises,https://regexcrossword.com/
+lsp,language server protocol,https://langserver.org/
+chaos report,,https://www.wikiwand.com/fr/Chaos_Re
+,,https://www.hiq.se/en/
+IBM DB2,hybrid data management products,https://www.wikiwand.com/en/IBM_Db2_Family
+Trifacta Wrangler,data wrangling tool,https://www.trifacta.com/fr/
+boost,c++ peer reviewed portable libraries,https://www.boost.org/
+crunchbase,Discover innovative companies and the people behind them,https://www.crunchbase.com/
+JFrog,END-TO-END UNIVERSAL DEVOPS PLATFORM,jfrog.com
+Credence Goods,goods and services whose sellers are also experts who determine the customers' needs,https://www.investopedia.com/terms/c/credence-good.asp
+bgp,border gateway protocol,https://www.wikiwand.com/en/Border_Gateway_Protocol
+801labs,A Community Hackerspace for Information Technology, Electronics, and Information Security Enthusiasts,https://www.801labs.org/
+elasticity,—the ability to handle bursts of requests. (not all scalable systems are elastic),
+"Architecture Kata
+",,
+FsCheck,Random Testing for .NET,https://github.com/fscheck/FsCheck
+LCOM,metrics measuring structural lack of cohesion,
+EPPlus,create advanced Excel spreadsheets using .net,https://www.nuget.org/packages/EPPlus/
+toggl,time-tracking service,https://toggl.com/
+tabNine,TabNine uses deep learning to help you write code faster.,https://tabnine.com/
+rtmp,real time messaging protocol,https://www.wikiwand.com/en/Real-Time_Messaging_Protocol
+ASICS,application-specific integrated circuits,
+zig,programming language,https://ziglang.org/
+functional versioning,,
+semantic versioning,,
+Ludum Dare,online event where games are made from scratch in a weekend,https://ldjam.com/
+Interview Cake,"Programming Interview Questions
+",https://www.interviewcake.com/
+Git Flow,code management process,https://leanpub.com/git-flow/read
+Jeffrey Snover,"Powershell guru
+",https://en.wikipedia.org/wiki/Jeffrey_Snover?oldformat=true
+package management,tools that automates the process of installing, upgrading, configuring, and removing computer programs for a computer's operating system in a consistent manner,https://en.wikipedia.org/wiki/Package_manager?oldformat=true
+Annotated Türing,AGuidedTourthroughAlanTuring'sHistoricPaperonComputabilityandtheTuringMachine,www.TheAnnotatedTunng.com
+smtp4dev,tool which any developer who is creating and sending emails should at least check out,https://brucemcmillansblog.wordpress.com/2012/10/24/tools-for-the-developer-smtp4dev/
+message queue,message queue provides temporary message storage when the destination program is busy or not connected,https://en.wikipedia.org/wiki/Message_queue?oldformat=true
+smart questions,how to ask questions,https://catb.org/~esr/faqs/smart-questions.html
+irc channel FAQ,"basic linux questions
+",https://www.total-knowledge.com/~ilya/mips/
+anti-corruption layer,set of Façades, Adapters and Translators to isolate a model from corruption by other models it needs to integrate with,https://dev.to/asarnaout/the-anti-corruption-layer-pattern-pcd
+signalR,library for ASP.NET that allows server code to send asynchronous notifications to client-side web applications,https://dotnet.microsoft.com/apps/aspnet/signalr
+archunit,enforcing java architecture compliance,https://www.archunit.org/
+tiny core linux packets,Index of /tinycorelinux/7.x/x86/tcz/,https://distro.ibiblio.org/tinycorelinux/7.x/x86/tcz/
+repository,pattern used to manage the persistence of data objects,
+aggregate,a cluster of domain objects that can be treated as a single unit,https://martinfowler.com/bliki/DDD_Aggregate.html
+reactstrap,Easy to use React Bootstrap 4 components,https://reactstrap.github.io/
+LXC,linux container,https://linuxcontainers.org/
+serverfault.com,the Stack Overflow for server admins,https://serverfault.com/
+linuxquestions dot org,a friendly and active Linux Community,LinuxQuestions.org
+Hiring Without WhiteBoards,companies with better hiring processes,https://github.com/poteto/hiring-without-whiteboards
+Project Euler,more difficult programming problems,https://projecteuler.net/
+Interview Cake,coding job interview preparation,https://www.interviewcake.com/
+StackShare,"Find the right developer tools and the companies that use them
+
+
+
+
+
+
+
+",https://stackshare.io/
+builtwith.com,Find out what websites are Built With,
+USP,a factor that differentiates a product from its competitors,https://whatis.techtarget.com/definition/unique-selling-point-USP
+docassemble,open-source expert system for guided interviews and document assembly,https://docassemble.org/
+jupyter notebook,documents containing both code  and rich text content,https://jupyter.org
+SLA ,service level agreement,
+RDD,resilient distributed dataset,
+Parquet,Parquet stores nested data structures in a flat columnar format,https://acadgild.com/blog/parquet-file-format-hadoop
+deno, le nouveau nodeJS ?,https://www.jesuisundev.com/deno-le-nouveau-nodejs/
+static factory method,a factory that lives inside the class we want an instance of,https://stackify.com/static-factory-methods/
+,,https://dddcommunity.org/
+Eric Evans,BDD,
+YARN,Yet Another Resource Negotiator,
+dataNode,nodes hosting data blocks, doing I/O work, executing work on data,https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html#NameNode+and+DataNodes
+nameNode,single master node managing HDFS filesystem,https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html#NameNode+and+DataNodes
+Hue,Hadoop gui,
+Oozie,workflow scheduler for Hadoop,
+HBase,distributed noSql database,
+Flume,Flume is a distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data.,
+Hive,a data warehouse software project built on top of Apache Hadoop for providing data query and analysis,
+Pig,high-level platform for creating programs that run on Apache Hadoop,
+mapReduce,a processing technique and a program model for distributed computing,
+Viktor Mayer-Schönberger,Professor of Internet Governance and Regulation,https://en.wikipedia.org/wiki/Viktor_Mayer-Sch%C3%B6nberger?oldformat=true
+denormalization,strategy used on a previously-normalized database to increase performance.,https://en.wikipedia.org/wiki/Denormalization?oldformat=true
+PCI,Payment Card Industry Data Security Standard (PCI DSS),https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard?oldformat=true
+linkage attack,An attempt to de-anonymize private data by linking it to PII,
+db-engines,Knowledge Base of Relational and NoSQL Database Management Systems,https://db-engines.com/en/
+integer programming,a mathematical optimization or feasibility program in which some or all of the variables are restricted to be integers,https://en.wikipedia.org/wiki/Integer_programming?oldformat=true
+SAS programming language,language used for statistical analysis,
+TPU(tensor processing unit),An application-specific integrated circuit developed by Google for machine learning,
+LIME,Local Interpretable Model-Agnostic Explanations,https://www.oreilly.com/learning/introduction-to-local-interpretable-model-agnostic-explanations-lime
+RFM (customer value),method to analyze customer value : recency, frequency, monetary,https://en.wikipedia.org/wiki/RFM_(customer_value)?oldformat=true
+data lakes,Any big data storage system designed to store raw data whose end use may not be known at time of collection,
+dark data,data which is generated by normal computer networks but not typically analysed,
+https://ergocanada.com,ergonomic office supplies,https://ergocanada.com
+graph database,database that uses graph structures for semantic queries,https://en.wikipedia.org/wiki/Graph_database?oldformat=true
+HDFS,The Hadoop Distributed File System,https://searchdatamanagement.techtarget.com/definition/Hadoop-Distributed-File-System-HDFS
+Google Trends,listings of what is being searched for on Google,trends.google.com
+a top 100 CS and programming books,,http://www.catonmat.net/blog/top-100-books-part-one/
+cyber innovation hub,German cyber milit@ry,https://www.cyberinnovationhub.de/en/
+SymbolSource,Your source for debugging symbols... and sources,http://www.symbolsource.org/Public/Home/VisualStudio
+regex crossword,fantastic world of nerdy regex fun!,https://regexcrossword.com/
+regex-coach,graphical application for Windows which can be used to experiment with (Perl-compatible) regular expressions interactively,http://www.weitz.de/regex-coach/
+SASS,Syntatically Awesome Style Sheets (CSS with superpowers),https://sass-lang.com/
+temporal decomposition,structure of a system corresponds to the time order in which operations will occur,https://book.douban.com/annotation/77495318/
+fog computing,processing data at the edges of a sensor network,
+lead scoring,ranking prospects against a scale that represents the perceived value,https://en.wikipedia.org/wiki/Lead_scoring?oldformat=true
+CLV,Customer Lifetime Value,https://en.wikipedia.org/wiki/Customer_lifetime_value?oldformat=true
+CRL,Certificate Revocation List,https://www.wikiwand.com/en/Certificate_revocation_list
+markdown,lightweight markup language,https://www.wikiwand.com/en/Markdown
+graphiQl,an in-browser IDE for exploring GraphQL,https://www.gatsbyjs.org/docs/introducing-graphiql/
+pandas from the ground up,Brandon Rhodes' talk at PyCon 2015,https://www.youtube.com/watch?v=5JnMutdy6Fw
+kaggle,public datasets,https://www.kaggle.com/datasets
+pandas,data analysis,https://pandas.pydata.org/
+Gartner Hype Cycle,provide a graphic representation of the maturity and adoption of technologies and applications,https://www.gartner.com/en/research/methodologies/gartner-hype-cycle
+Babel compiler,transpile ecmaScript 6+ code to regular javascript,https://babeljs.io/
+lambda en C#,,https://docs.microsoft.com/fr-ca/dotnet/csharp/programming-guide/statements-expressions-operators/lambda-expressions
+Essentials of Garbage Collectors,study all different techniques and algorithms related to the automatic memory management,http://dmitrysoshnikov.com/courses/essentials-of-garbage-collectors/
+pass,the standard unix password manager,https://www.passwordstore.org/
+progressive web app,type of mobile app delivered thru the web,https://www.wikiwand.com/en/Progressive_web_applications
+headless CMS,a back-end only content management system,https://www.wikiwand.com/en/Headless_content_management_system
+forestry cms,Static CMS for Hugo, Jekyll, VuePress and Gatsby,forestry.io
+stackbit,create a website in minutes,https://www.stackbit.com/
+staticGen,top open source static sites generators,https://www.staticgen.com/
+borg,large scale cluster management at Google,https://ai.google/research/pubs/pub43438
+guide to html5 boilerplate,,https://code.tutsplus.com/tutorials/the-official-guide-to-html5-boilerplate--net-13998
+HTML5 boiler plate,web most popular front-end template,https://html5boilerplate.com/
+Twelve Factor App methodology,"methodology to build SaaS , inspired by Heroku",https://www.wikiwand.com/en/Twelve-Factor_App_methodology
+shim technique, creating a DOM element of the same name as the HTML5 element that you want to use,
+html css style guide,google html and css style guide,https://google.github.io/styleguide/htmlcssguide.html
+semantic markup,html markup that describes the content it contains,https://html.com/semantic-markup/#What_is_Semantic_Markup
+ECO (engineering change order),documentation packet that outlines the proposed change,https://www.wikiwand.com/en/Engineering_change_order
+ansible,IT automation,https://www.ansible.com/
+microformats,open data formats designed for humans first, machines second,http://microformats.org/
+Microformats made simple,a book explaining microformats,https://microformatsmadesimple.com/
+shared objects,Understanding shared objects in linux,https://www.tecmint.com/understanding-shared-libraries-in-linux/
+P/Invoke,,https://www.wikiwand.com/en/Platform_Invocation_Services
+generatedata,generate datasets with fake data,https://www.generatedata.com/
+cock.li, your go-to solution for professional E-mail and XMPP addresses.,https://cock.li/
+notification pattern,replace throw with notifications,https://martinfowler.com/articles/replaceThrowWithNotification.html
+YQL,The Yahoo! Query Language is an expressive SQL-like language,https://yuilibrary.com/yui/docs/yql/
+tranfer.sh,easy file sharing from the command line,https://transfer.sh/
+html semantic markups,the correct interpretation of the meaning of,https://html.com/semantic-markup/
+outlining in html5,firefox tells use how to outline in current HTML,https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML_sections_and_outlines
+html sectioning flowchart,what kind of tags should i use for this section of my page ?,https://html5doctor.com/downloads/h5d-sectioning-flowchart.png
+character encoding,reflexion about character encoding,https://diveintohtml5.info/semantics.html#encoding
+Character entity reference,A great resource for character entities,https://www.digitalmediaminute.com/reference/entity/index.php
+XSS vulnerability,cross-site scripting vulnerability shows importance of encoding,http://shiflett.org/blog/2005/googles-xss-vulnerability
+WHATWG,working group pursuing development of HTML specs,https://html.spec.whatwg.org/multipage/
+html5 storage apis,the ability to store data locally and to allow the application to run offline,https://www.adobe.com/devnet/archive/html5/articles/html5-storage-apis.html
+John Ousterhout,My favorites sayings,https://web.stanford.edu/~ouster/cgi-bin/sayings.php
+jibberjobber,crm for job seekers,https://www.jibberjobber.com/login.php
+XML Schema Definition file,(XSD) defines the structure of an XML document,https://www.w3schools.com/xml/schema_intro.asp
+Document Type Definition file,(DTD) defines the structure of an XML document.,https://www.w3schools.com/xml/xml_dtd.asp
+free formatter,utility website ,https://www.freeformatter.com/
+writing logs in Python,,https://pymotw.com/2/logging/
+ELK stack,logging framework for serious stuff happening in the cloud,https://hackernoon.com/elastic-stack-a-brief-introduction-794bc7ff7d4f
+ruby Sinatra,nice slides explaining stuff,https://fr.slideshare.net/BobNadlerJr/sinatra-flatiron
+bogosort,a highly ineffective sorting algorithm based on the generate and test paradigm,https://www.wikiwand.com/en/Bogosort
+interception architecture,,https://www.hojjatk.com/2012/11/chain-of-responsibility-pipeline-design.html
+Quine,computer program which takes no input and produces a copy of its own source code as its only output.,https://www.wikiwand.com/en/Quine_(computing)
+server name indication,allows server to connect multipe SSL certificates to 1 IP address,https://helpdesk.ssls.com/hc/en-us/articles/206077841-What-is-SNI-technology-
+FFI,foreign function interface,https://www.wikiwand.com/en/Foreign_function_interface
+stropping,allows  same letter sequence to be used both as a keyword and as an identifier,https://www.wikiwand.com/en/Stropping_(syntax)
+switching to/from editor/terminal,how to configure VS Code for nice keyboard shortcut,https://stackoverflow.com/questions/42796887/switch-focus-between-editor-and-integrated-terminal-in-visual-studio-code
+Dr Richard Hipp,probable next DailyProg hall of fame addition,https://www.wikiwand.com/en/D._Richard_Hipp
+self repairing program in C,llvm C self repairing program,https://docs.google.com/presentation/d/1UpR2HjfXR_fFBM0vZYQddjjHs4Q2w1diMKKJGTfSflk/edit?usp=sharing
+Nim in action,nice book to start learnings nim programming langage,https://www.manning.com/books/nim-in-action
+ncurses,portable screen-handling for linux,https://www.linuxjournal.com/content/getting-started-ncurses
+select(),system call to examine status of file descriptors,https://www.wikiwand.com/en/Select_(Unix)
+"Ranger branching guide
+",Microsoft's version control system setup guide,https://vsardata.blob.core.windows.net/projects/TFS%20Version%20Control%20Part%201%20-%20Branching%20Strategies.pdf
+gunning fog index,a readability test for English writing,https://www.wikiwand.com/en/Gunning_fog_index
+the Recurse center,self-directed, community-driven educational retreat for programmers in New York City.,https://www.recurse.com/
+42 school,free IT academy in Paris,https://www.wikiwand.com/en/42_(school)
+coder,open source remote development environment serving Visual Studio Code,https://coder.com/
+two's complement,mathematical operation for signed integers,https://en.wikipedia.org/wiki/Two%27s_complement
+Rick and Morty,American adult animated science fiction sitcom,https://www.wikiwand.com/en/Rick_and_Morty
+data governance,data management concept to ensure high-quality data all the time,https://www.wikiwand.com/en/Data_governance
+vanilla,default implementation of a system,https://whatis.techtarget.com/definition/vanilla
+DataKind,data science in the service of humanity,https://www.datakind.org/
+data science,blog aggregator,http://www.datatau.com/
+nim,programming language,https://nim-lang.org/
+COS320: Compiling Techniques,slides,https://www.cs.princeton.edu/courses/archive/spring19/cos320/lectures/lecture10.pdf
+grub2,replacement for the original GRUB boot loader,https://wiki.gentoo.org/wiki/GRUB2
+TMUX2,increases productivity with multiple terminals,https://github.com/tmux/tmux/wiki
+contrast checker,UI UX tool to check contrast,https://snook.ca/technical/colour_contrast/colour.html#fg=33FF33,bg=333333
+Dragon,speech recognition software,https://www.nuance.com/dragon.html
+Oracle pl/sql ,how to debug a package (aka Stored procedure),https://www.youtube.com/watch?v=UAXKaUX1muY
+Raven DB,noSQL acid database,https://ravendb.net/
+Oren Eini aka Ayende Rahien,"blog from a data access specialist
+",https://ayende.com/blog/
+.data(),jQuery API documentation for data attributes,https://api.jquery.com/data/
+using data attributes,(front-end web programming),https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto/Use_data_attributes
+chocolatey,The sane way to manage software on Windows,https://chocolatey.org/
+dependency injection basics,in Asp.net Core,https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-2.2
+n + 1 selects problem,in ORM,https://stackoverflow.com/questions/97197/what-is-the-n1-selects-problem-in-object-relational-mapping#
+jit,just in time compilation,https://stackoverflow.com/questions/95635/what-does-a-just-in-time-jit-compiler-do
+aspect-oriented programming,programming paradigm that aims to increase modularity ,https://www.wikiwand.com/en/Aspect-oriented_programming
+cozy bear,,https://www.wikiwand.com/en/Cozy_Bear
+Underactuated robotics,algorithms for different kinds of movements,http://underactuated.csail.mit.edu/underactuated.html
+going solo,how to set up as a freelance consultant,https://kev.inburke.com/kevin/going-solo-successfully/
+,arguments against single-page applications (js frontend frameworks),https://journal.plausible.io/you-probably-dont-need-a-single-page-app
+Book of secret knowledge,resources interesting to hackers, security xPerts, devops,https://github.com/trimstray/the-book-of-secret-knowledge
+Linus' law,"""given enough eyeballs, all bugs are shallow""",
+bootstrapping,usually refers to a self-starting process that is supposed to proceed without external input,https://www.wikiwand.com/en/Bootstrapping
+self-reference ,when a sentence, idea or formula refers to itself,https://www.wikiwand.com/en/Self-reference
+year 2038 problem,problem of representing time as a 32-bit integer,https://www.wikiwand.com/en/Year_2038_problem
+Bugzilla,server software designed to help you manage software development.,https://www.bugzilla.org/
+linux swear words count,,https://www.vidarholen.net/contents/wordcount/#fuck*,shit*,damn*,idiot*,retard*
+Joys's Law (management),most of the smartest people work for someone else [other than you].,https://www.wikiwand.com/en/Joy%27s_law_(management)
+DAVID LORGE PARNAS,short essays about limits of software engineering,https://web.stanford.edu/class/cs99r/readings/parnas1.pdf
+eager loading,way of loading entities in the context of an ORM,https://stackoverflow.com/questions/1299374/what-is-eager-loading
+protocol buffers,binary objects used for serializing structured data,https://developers.google.com/protocol-buffers/
+drawer layout,a pattern designed to put content first & make navigation easily accessible,https://www.youtube.com/watch?v=DkT0vS14Um0
+devilbox,modern and highly customisable dockerized PHP stack,http://devilbox.org/
+viewport sized typography,sizing things relative to the current viewport size,https://css-tricks.com/viewport-sized-typography/
+webDAV protocol,Web Distributed Authoring and Versioning,https://www.wikiwand.com/en/WebDAV
+Raymond Chen's Microsoft blog,,https://blogs.msdn.microsoft.com/oldnewthing/
+gopher,application-layer protocol that provides extracting  documents stored on Web servers,https://www.techopedia.com/definition/5360/gopher
+T-shaped skills,metaphor used in job recruitment,https://www.wikiwand.com/en/T-shaped_skills
+game dev map,map of game studios,https://www.gamedevmap.com/index.php?location=Quebec%20City
+agile manifesto,,http://agilemanifesto.org/
+The Haskell Cabal,building and packaging Haskell libraries and programs,https://www.haskell.org/cabal/
+hybrid app,html5 app wrapped for distribution on app stores,https://www.joshmorony.com/the-step-by-step-guide-to-publishing-a-html5-mobile-application-on-app-stores/
+iso 9001:2015,Quality management systems -- Requirements,https://www.iso.org/standard/62085.html
+LoRa,digital wireless data communication technology,https://www.wikiwand.com/en/LoRa
+MSC Software Corporation,that specializes in simulation software,https://www.wikiwand.com/en/MSC_Software
+Why no one understands you,... and what to do about it,https://www.youtube.com/watch?v=owORxKqX0nU
+Richard Stallman,personal website,https://stallman.org/
+ricing,customize smartphone UI,https://homescreens.org/wiki/
+Dave Cutler,most influential and game changing engineer ever,https://news.microsoft.com/features/the-engineers-engineer-computer-industry-luminaries-salute-dave-cutlers-five-decade-long-quest-for-quality/
+countly,Secure and extensible product analytics,https://count.ly/
+TEAL organization wiki,based on the book Reinventing Organizations,,http://www.reinventingorganizationswiki.com/Main_Page
+nim programming language,Statically typed and compiled,https://nim-lang.org/
+sql.js,SQLite compiled to javascript,https://github.com/kripken/sql.js/
+tiling window manager,,https://www.wikiwand.com/en/Tiling_window_manager
+Boyd's Law of Iteration,speed is more important than quality,https://blog.codinghorror.com/boyds-law-of-iteration/
+,Peter Norvig,https://norvig.com/21-days.html
+code kata,experience is the only teacher,http://codekata.com/
+A Better Path to Enterprise Architectures,,https://gbds.us/clientuploads/downloads/A_Better_Path.pdf
+SICP in the classroom,videos,https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/
+git-annex,managing files with git, without checking the file contents into git,https://git-annex.branchable.com/
+How to Design Programs,little brother to SICP,https://htdp.org/2018-01-06/Book/index.html
+book of proof,,https://www.people.vcu.edu/~rhammack/BookOfProof/
+discrete maths,free discrete maths textbook,http://discrete.openmathbooks.org/dmoi3.html
+list maths textbooks,American institute of Mathematics approved textbooks ,https://aimath.org/textbooks/approved-textbooks/
+The Phoenix Project,novel : lean in IT, devops,https://www.amazon.ca/Phoenix-Project-DevOps-Helping-Business/dp/0988262592
+Poignant Guide,Guide to Ruby,https://poignant.guide/book/
+Apache Guacamole,ssh to your PC from any webbrowser,https://guacamole.apache.org/
+interview prep,,https://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html
+Algorithm design manual,using algos and data structures to solve common problems,"http://www.algorist.com/
+"
+Steve Yegge,influential engineer blogger,https://www.wikiwand.com/en/Steve_Yegge
+sourcerer,visual analysis of library use,https://sourcerer.io/
+guerilla mail,disposable temporary email address,https://www.guerrillamail.com/
+grids ,dynamic grid layout,https://github.com/e-oj/Magic-Grid
+dark patterns UI design,Dark Patterns are tricks used in websites,https://darkpatterns.org/
+ECMAScript 6,new version of Javascript,http://exploringjs.com/es6/
+typography : quotation marks,proper quote marks relative to context (english language),http://smartquotesforsmartpeople.com/
+webAssembly,a binary format for the web,http://2ality.com/2015/06/web-assembly.html
+makefile,file containing a set of directives,https://www.wikiwand.com/en/Makefile
+RUP,Rational Unified Process,https://en.wikipedia.org/wiki/Rational_Unified_Process
+Marvin Minsky - MIT,philosophical reflexions about programming computers,https://web.media.mit.edu/~minsky/papers/Why%20programming%20is--.html
+the Jargon file,a comprehensive compendium of hacker slang,http://www.catb.org/jargon/html/
+electron.js,Electron allows the development of desktop GUI applications,https://www.quora.com/What-do-you-need-to-know-to-learn-Electron-JS-framework
+Structure and interpretation of computer programs,,https://mitpress.mit.edu/sites/default/files/sicp/index.html
+ABP generator,abstract syntax tree,https://www.wikiwand.com/en/Abstract_syntax_tree
+Apache Kafka,a distributed streaming platform,https://kafka.apache.org/
+learning Haskell,,http://learnyouahaskell.com/chapters
+temporary file hosting,,https://uguu.se/
+Intel C++ Compiler,,https://www.wikiwand.com/en/Intel_C%2B%2B_Compiler
+VHDL,Hardware Description Language,https://www.wikiwand.com/en/VHDL
+normalize.css,A modern, HTML5-ready alternative to CSS resets,https://necolas.github.io/normalize.css/
+"ABAP
+",SAP's 4th gen language,https://www.wikiwand.com/en/ABAP
