@@ -2,7 +2,7 @@ name: resources Twitter message
 
 on:
   schedule:
-    - cron: "10 20 * * *"
+    - cron: "55 20 * * *"
 
 jobs:
   build:
@@ -17,7 +17,7 @@ jobs:
       - name: Install Node modules
         run: npm install twit
       - name: Tweet message
-        run: node resources-tweet.js
+        run: node resource-tweet.js
         env:
           CONSUMER_KEY: ${{ secrets.CONSUMER_KEY }}
           CONSUMER_SECRET: ${{ secrets.CONSUMER_SECRET }}
