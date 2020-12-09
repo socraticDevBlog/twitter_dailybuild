@@ -2,7 +2,7 @@ name: Christmas Twitter message
 
 on:
   schedule:
-    - cron: "20 15 */4 * *"
+    - cron: "20 15 */2 * *"
 
 jobs:
   build:
