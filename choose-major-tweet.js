@@ -1,3 +1,6 @@
+// script is retired as of : 2020-12-10
+// by socraticDev
+
 const csv = require("csvtojson");
 const utils = require("./utils");
 let tweeter = require("./tweet-module");
