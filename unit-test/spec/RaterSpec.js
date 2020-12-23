@@ -8,13 +8,10 @@ describe("Rater", function () {
   it("should handle division by zero", function () {
     let upvotes = 0;
     let downvotes = 0;
-
-    // result of division by zero in JS is : infinity
-    const infinity = Infinity;
-
     let result = rater.rateWithPoints(upvotes, downvotes);
-
-    expect(result).not.toEqual(infinity);
+    
+    // result of division by zero in JS is : infinity
+    expect(result).not.toEqual(Infinity);
     expect(result).toEqual(0);
   });
 
@@ -28,6 +25,7 @@ describe("Rater", function () {
     const basedMemeScore = rater.rateWithPoints(basedMemeUpvotes, basedMemeDownvotes);
     const unbasedMemeScore = rater.rateWithPoints(unbasedMemeUpvotes, unbasedMemeDownvotes);
 
+    expect(basedMemeScore).not.toEqual(Infinity);
     expect(basedMemeScore).toBeGreaterThan(unbasedMemeScore);
   });
 });

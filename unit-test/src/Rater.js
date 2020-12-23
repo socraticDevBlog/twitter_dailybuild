@@ -13,6 +13,6 @@ function danknessoMeter(ups, downs) {
 class Rater {
   constructor() {}
   rateWithPoints(upvotes, downvotes) {
-    return danknessoMeter(upvotes, downvotes);
+      return upvotes - (downvotes * 2);
   }
 }
