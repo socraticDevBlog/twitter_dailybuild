@@ -2,5 +2,11 @@
   "dependencies": {
     "twit": "^2.2.11",
     "csvtojson": "^2.0.10"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "devDependencies": {
+    "jasmine": "^3.6.3"
   }
 }

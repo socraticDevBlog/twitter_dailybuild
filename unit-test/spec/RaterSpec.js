@@ -1,3 +1,5 @@
+const { Rater } = require("../src/Rater.js")
+
 describe("Rater", function () {
   var rater;
 

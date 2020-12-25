@@ -1,14 +1,4 @@
-// sebbu's algo
-function danknessoMeter(ups, downs) {
-  let dividend = ups - downs;
-  let divisor = ups + downs;
-
-  // original
-  return dividend / divisor != 0 ? divisor : 1;
-
-  //dailykoder's suggestion
-  // return divisor !== 0 ? dividend/divisor : 0;
-}
+const { danknessoMeter } = require("../../meme-tweet.js")
 
 class Rater {
   constructor() {}
@@ -16,3 +6,5 @@ class Rater {
       return upvotes - (downvotes * 2);
   }
 }
+
+module.exports = { Rater }
