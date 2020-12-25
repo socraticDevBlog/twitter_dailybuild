@@ -26,7 +26,7 @@ __tip__: To make sure your message is well-formed (since you dont have access to
 4. The tests will be ran and a result outputted to same terminal;
 5. read the test framework output.
 
-![capture of command line with jasmine](./captures/jasming.png)
+![capture of command line with jasmine](./captures/jasmine.png)
 
 > Tweet modules are assumed to work once integrated in Github Actions where they are feed the SECRET KEYS. Since your script 'integrates' the tweet-modules, you cannot unit test it.
 
