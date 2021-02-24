@@ -7,7 +7,7 @@ const {
   
 const URL = `https://newsapi.org/v2/everything?excludeDomains=mashable.com,techcrunch.com,slashdot.org,engadget.com&sortBy=relevancy&q=programming%20and%20language&apiKey=${NEWS_API_KEY}`;
 
-function postTweet(msg, img) {
+function postTweet(msg, imgUrl) {
     var request = require("request").defaults({ encoding: null });
 
     request.get(imgUrl, function (error, response, body) {
