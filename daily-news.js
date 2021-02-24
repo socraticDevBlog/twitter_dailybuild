@@ -28,14 +28,14 @@ axios
     console.log(error);
   });
 
-// function postTweet(msg, imgUrl) {
-//   let request = require("request").defaults({ encoding: null });
+function postTweet(msg, imgUrl) {
+  let request = require("request").defaults({ encoding: null });
 
-//   request.get(imgUrl, function (error, response, body) {
-//     if (!error && response.statusCode == 200) {
-//       img = Buffer.from(body).toString("base64");
-//       let tweeter = require("./tweet-module");
-//       let _ = new tweeter.TweetMediaPoster(msg, img);
-//     }
-//   });
-// }
+  request.get(imgUrl, function (error, response, body) {
+    if (!error && response.statusCode == 200) {
+      img = Buffer.from(body).toString("base64");
+      let tweeter = require("./tweet-module");
+      let _ = new tweeter.TweetMediaPoster(msg, img);
+    }
+  });
+}
