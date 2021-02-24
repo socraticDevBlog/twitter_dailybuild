@@ -1,5 +1,5 @@
-import axios from 'axios';
-import { randomizer } from "./utils";
+const axios = require('axios');
+const util = require("./utils");
 
 const {
   NEWS_API_KEY
@@ -10,7 +10,7 @@ const URL = `https://newsapi.org/v2/everything?excludeDomains=mashable.com,techc
 axios.get(URL)
   .then(response => {
     let data = response.data;
-    const randomId = randomizer(0, Object.keys(data.articles).length);
+    const randomId = util.randomizer(0, Object.keys(data.articles).length);
     let title = data.articles[randomId].title;
     let urlToImage = data.articles[randomId].urlToImage;
 
