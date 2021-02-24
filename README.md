@@ -9,6 +9,7 @@ any active member of IRC channel #dailybuild can post tweets from @dailybuild3 ğ
 - edit file `regular-tweet.js` by assigning your tweet message to `const message = "{ muh tweet content }"`
 - do the mandatory voodoo to create a pull request
 - let `socraticDev` give a quick look and merge your submission ğŸ
+  - `socraticDev` would have to remember he needs to merge that into `userTweet` branch
 
 __tip__: To make sure your message is well-formed (since you dont have access to Twitter API keys), locally, you can comment out the ``Tweet Module`` import statement and the last line where the message is sent by the module. Instead, you can simply ``console.log({your message})`` and see if your message is well-formed.
 
