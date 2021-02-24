@@ -17,7 +17,7 @@ axios
     let article = data.articles[randomId];
     let msg = article.title;
     msg += " " + article.url + " 🤖tweeted by a friendly bot🕊️";
-    let urlToImage = article["urlToImage"];
+    let urlToImage = article['urlToImage'];
 
     console.log(`msg: ${msg}`);
     console.log(`image url: ${urlToImage}`);
@@ -28,14 +28,14 @@ axios
     console.log(error);
   });
 
-function postTweet(msg, imgUrl) {
-  let request = require("request").defaults({ encoding: null });
+// function postTweet(msg, imgUrl) {
+//   let request = require("request").defaults({ encoding: null });
 
-  request.get(imgUrl, function (error, response, body) {
-    if (!error && response.statusCode == 200) {
-      img = Buffer.from(body).toString("base64");
-      let tweeter = require("./tweet-module");
-      let _ = new tweeter.TweetMediaPoster(msg, img);
-    }
-  });
-}
+//   request.get(imgUrl, function (error, response, body) {
+//     if (!error && response.statusCode == 200) {
+//       img = Buffer.from(body).toString("base64");
+//       let tweeter = require("./tweet-module");
+//       let _ = new tweeter.TweetMediaPoster(msg, img);
+//     }
+//   });
+// }
