@@ -11,8 +11,9 @@ axios.get(URL)
   .then(response => {
     let data = response.data;
     const randomId = util.randomizer(0, Object.keys(data.articles).length);
-    let title = data.articles[randomId].title;
-    let urlToImage = data.articles[randomId].urlToImage;
+    let article = data.articles[randomId];
+    let title = article.title;
+    let urlToImage = article['urlToImage'];
 
     postTweet(title, urlToImage);
   })
