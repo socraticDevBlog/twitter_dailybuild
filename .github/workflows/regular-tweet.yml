@@ -3,7 +3,7 @@ name: Regular Tweet job
 on:
   push:
     branches:
-      - main
+      - userTweet
 
 jobs:
   build:
