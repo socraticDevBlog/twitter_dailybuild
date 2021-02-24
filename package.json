@@ -1,7 +1,8 @@
 {
   "dependencies": {
-    "twit": "^2.2.11",
+    "axios": "^0.21.1",
     "csvtojson": "^2.0.10",
-    "jasmine": "^3.6.3"
+    "jasmine": "^3.6.3",
+    "twit": "^2.2.11"
   }
 }
