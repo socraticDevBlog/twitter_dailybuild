@@ -3,7 +3,10 @@ const util = require("./utils");
 
 const { NEWS_API_KEY } = process.env;
 
-const URL = `https://newsapi.org/v2/everything?excludeDomains=mashable.com,techcrunch.com,slashdot.org,engadget.com&sortBy=relevancy&q=programming%20and%20language&apiKey=${NEWS_API_KEY}`;
+const EXLUDED_DOMAINS_PARAMS = 'excludeDomains=mashable.com,techcrunch.com,slashdot.org,engadget.com';
+const Q_STR = 'q=programming%20and%20language';
+
+const URL = `https://newsapi.org/v2/everything?${EXLUDED_DOMAINS_PARAMS}&${Q_STR}&sortBy=relevancy&apiKey=${NEWS_API_KEY}`;
 
 axios
   .get(URL)
@@ -13,7 +16,7 @@ axios
 
     let article = data.articles[randomId];
     let msg = article.title;
-    msg += " " + article.url;
+    msg += " " + article.url + " 🤖tweeted by a friendly bot🕊️";
     let urlToImage = article["urlToImage"];
 
     console.log(`msg: ${msg}`);
