@@ -2,7 +2,7 @@ name: daily-news Tweet job
 
 on:
   schedule:
-    - cron: "45 18 * * *"
+    - cron: "00 20 * * *"
 
 jobs:
   build:
