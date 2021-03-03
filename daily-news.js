@@ -31,10 +31,13 @@ axios
 function processAndPostTweet(data) {
   let randomId = util.randomizer(0, Object.keys(data.articles).length);
   let article = data.articles[randomId];
-  
+
   let msg = article.title;
   msg += " " + article.url + " tweeted by a 🤖";
   let urlToImage = article["urlToImage"];
+
+  console.log(`tweet message: ${msg}`);
+  console.log(`url to image: ${urlToImage}`);
 
   postTweet(msg, urlToImage);
 }
@@ -44,9 +47,12 @@ function postTweet(msg, imgUrl) {
 
   request.get(imgUrl, function (error, response, body) {
     if (!error && response.statusCode == 200) {
+      console.log(`success will post tweet: ${msg}`);
       img = Buffer.from(body).toString("base64");
       let tweeter = require("./tweet-module");
       let _ = new tweeter.TweetMediaPoster(msg, img);
+    } else {
+      console.log(`an error occured: ${error}`);
     }
   });
 }
