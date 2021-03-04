@@ -1,5 +1,6 @@
 const axios = require("axios");
 const util = require("./utils");
+let tweeter = require("./tweet-module");
 
 const { NEWS_API_KEY } = process.env;
 
@@ -25,7 +26,7 @@ axios
     processAndPostTweet(response.data);
   })
   .catch((error) => {
-    console.log(error);
+    console.log(`query to news api failed: ${error}`);
   });
 
 function processAndPostTweet(data) {
@@ -39,17 +40,20 @@ function processAndPostTweet(data) {
   console.log(`tweet message: ${msg}`);
   console.log(`url to image: ${urlToImage}`);
 
-  postTweet(msg, urlToImage);
+  if (urlToImage) {
+    postTweetWithImage(msg, urlToImage);
+  } else {
+    let _ = new tweeter.TweetPoster(msg);
+  }
 }
 
-function postTweet(msg, imgUrl) {
+function postTweetWithImage(msg, imgUrl) {
   let request = require("request").defaults({ encoding: null });
 
   request.get(imgUrl, function (error, response, body) {
     if (!error && response.statusCode == 200) {
-      console.log(`success will post tweet: ${msg}`);
       img = Buffer.from(body).toString("base64");
-      let tweeter = require("./tweet-module");
+
       let _ = new tweeter.TweetMediaPoster(msg, img);
     } else {
       console.log(`an error occured: ${error}`);
