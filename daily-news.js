@@ -7,6 +7,8 @@ const { NEWS_API_KEY } = process.env;
 const EXLUDED_DOMAINS_PARAMS =
   "excludeDomains=mashable.com,techcrunch.com,slashdot.org,engadget.com";
 
+const SELECTED_LANGUAGES = "language=en";
+
 const Q_STRINGS = [
   "programming%20and%20language",
   "linux",
@@ -18,7 +20,7 @@ const Q_STRINGS = [
 ];
 
 let query = Q_STRINGS[util.randomizer(0, Q_STRINGS.length)];
-const URL = `https://newsapi.org/v2/everything?${EXLUDED_DOMAINS_PARAMS}&q=${query}&sortBy=relevancy&apiKey=${NEWS_API_KEY}`;
+const URL = `https://newsapi.org/v2/everything?${SELECTED_LANGUAGES}&${EXLUDED_DOMAINS_PARAMS}&q=${query}&sortBy=relevancy&apiKey=${NEWS_API_KEY}`;
 
 axios
   .get(URL)
