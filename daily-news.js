@@ -19,10 +19,12 @@ const Q_STRINGS = [
   "rust%20and%20programming%20or%20language",
 ];
 
+console.log(`topics: ${Q_STRINGS}`)
+
 let query = Q_STRINGS[util.randomizer(0, Q_STRINGS.length)];
 console.log(`query: ${query}`)
 const URL = `https://newsapi.org/v2/everything?${SELECTED_LANGUAGES}&${EXLUDED_DOMAINS_PARAMS}&q=${query}&sortBy=relevancy&apiKey=${NEWS_API_KEY}`;
-
+console.log(`url to api: ${URL}`
 axios
   .get(URL)
   .then((response) => {
@@ -44,11 +46,11 @@ function processAndPostTweet(data) {
   console.log(`tweet message: ${msg}`);
   console.log(`url to image: ${urlToImage}`);
 
-  if (urlToImage) {
-    postTweetWithImage(msg, urlToImage);
-  } else {
-    let _ = new tweeter.TweetPoster(msg);
-  }
+  //if (urlToImage) {
+  //  postTweetWithImage(msg, urlToImage);
+  //} else {
+  //  let _ = new tweeter.TweetPoster(msg);
+  //}
 }
 
 function postTweetWithImage(msg, imgUrl) {
