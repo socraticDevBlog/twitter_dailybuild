@@ -20,11 +20,13 @@ const Q_STRINGS = [
 ];
 
 let query = Q_STRINGS[util.randomizer(0, Q_STRINGS.length)];
+console.log(`query: ${query}`)
 const URL = `https://newsapi.org/v2/everything?${SELECTED_LANGUAGES}&${EXLUDED_DOMAINS_PARAMS}&q=${query}&sortBy=relevancy&apiKey=${NEWS_API_KEY}`;
 
 axios
   .get(URL)
   .then((response) => {
+    console.log(`response from api ${response.data}`)
     processAndPostTweet(response.data);
   })
   .catch((error) => {
