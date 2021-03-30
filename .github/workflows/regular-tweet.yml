@@ -1,9 +1,7 @@
 name: Regular Tweet job
 
 on:
-  push:
-    branches:
-      - userTweet
+  workflow_dispatch:
 
 jobs:
   build:
