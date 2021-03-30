@@ -3,6 +3,7 @@ name: daily-news Tweet job
 on:
   schedule:
     - cron: "13 13 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
