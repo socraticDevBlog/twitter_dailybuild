@@ -17,11 +17,17 @@ const Q_STRINGS = [
   "web%20and%20development",
   "Go%20and%20programming%20or%20language",
   "rust%20and%20programming%20or%20language",
+  "reverse-engineering",
+  "cloud-native",
+  "4chan",
+  "Zuckerberg",
+  "Microsoft",
+  "Elon Musk"
 ];
 
 console.log(`topics: ${Q_STRINGS}`)
 
-let query = Q_STRINGS[util.randomizer(0, Q_STRINGS.length)];
+let query = Q_STRINGS[util.randomizer(0, Q_STRINGS.length - 1)];
 console.log(`query: ${query}`)
 
 if (!query) { process.exit(1) }
