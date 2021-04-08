@@ -1,7 +1,3 @@
-layout: page
-title: "movies"
-permalink: /movies/
-
 # we riff movies from home 📽️🍿
 
 |                                          | year | country |                                  | comments | watch date                        |   |   |   |   |   |   |
