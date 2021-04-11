@@ -6,7 +6,7 @@ const COMMAND_LINE_ARGS_1_IDX = 2;
 // populate the message you want to tweet, then submit a pull-request
 // ** if there is already a message in there: replace it with yours
 //
-var message = "@PJVogt our small internet community uses swacth beattime (ref to tldr episode), no?? https://rizon.dailybuild.org/#first"; //<------- *** enter your tweet ***
+var message = "on friday and saturday nights, we enjoy watching movies together, no?? Please add suggestions https://poll.ly/#/LKvppy11"; //<------- *** enter your tweet ***
 //
 // that's it ! dont worry about the code down under.
 
