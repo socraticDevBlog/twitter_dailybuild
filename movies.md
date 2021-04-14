@@ -2,7 +2,7 @@
 
 |                                                                                   | year | country |                                                       | comments                                                                                       | watch date                       |     |     |     |     |     |     |
 | --------------------------------------------------------------------------------- | ---- | ------- | ----------------------------------------------------- | ---------------------------------------------------------------------------------------------- | -------------------------------- | --- | --- | --- | --- | --- | --- |
-|[A Gnome named Gnorm](https://www.imdb.com/title/tt0109912)|1990|USA|||TBA 
+|[A Gnome named Gnorm](https://www.imdb.com/title/tt0109912)|1990|USA||| 2021-04-16 (Friday 10:30pm EST) 
 |[The Room](https://www.imdb.com/title/tt0368226/)|2003|CA, USA|||TBA
 |[The Warriors](https://www.imdb.com/title/tt0080120/)|1979|NY, USA|||TBA
 |[Hackers](https://www.imdb.com/title/tt0113243/)|1995|USA| egg, Tekdude, bloom, MrRoach, Zuckerberg, socraticDev||2021-04-10(saturday) 10:30pm EST 
