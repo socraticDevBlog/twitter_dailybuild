@@ -1,5 +1,7 @@
 # we riff movies from home 📽️🍿
 
+Next movie is [A Gnome named Gnorm](https://www.imdb.com/title/tt0109912) on Friday 16th at 10:30pm EST (@145).
+
 | Name | Year | Country | Participants | Comments | Watch Date |
 | ---- | ---- | ------- | ------------ | -------- | ---------- |
 | [The Room](https://www.imdb.com/title/tt0368226/) | 2003 | CA, USA | | | TBA
