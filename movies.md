@@ -1,12 +1,12 @@
 # we riff movies from home 📽️🍿
 
-Next movie is [Weekend at Bernie's](https://www.imdb.com/title/tt0098627/) on ????? ?th at ??:??pm EST (@???).
+Next movie is [Weekend at Bernie's](https://www.imdb.com/title/tt0098627/) on Sunday 18th at 04:30pm EST (@895).
 
 | Name | Year | Country | Participants | Comments | Watch Date |
 | ---- | ---- | ------- | ------------ | -------- | ---------- |
 | [The Room](https://www.imdb.com/title/tt0368226/) | 2003 | CA, USA | | | TBA
 | [The Warriors](https://www.imdb.com/title/tt0080120/) | 1979 | NY, USA | | | TBA
-| [Weekend at Bernie's](https://www.imdb.com/title/tt0098627/) | 1989 | USA | | | TBA
+| [Weekend at Bernie's](https://www.imdb.com/title/tt0098627/) | 1989 | USA | | | 2021-04-18 (Sunday 04:30pm EST)
 | [A Gnome named Gnorm](https://www.imdb.com/title/tt0109912) | 1990 | USA | Bernie, socraticDev, winny, Zuckerberg, Tekdude, egg | | 2021-04-16 (Friday 10:30pm EST)
 | [Hackers](https://www.imdb.com/title/tt0113243/) | 1995 | USA | egg, Tekdude, bloom, MrRoach, Zuckerberg, socraticDev | | 2021-04-10 (Saturday 10:30pm EST)  
 | [Birdemic: Shock and Terror](https://www.imdb.com/title/tt1316037/) | 2010 | CA, USA | Tekdude, MrRoach, Bernie, Zuckerberg, socraticDev | fun fact: forced to cancel 'Gnome named Gorm' and switch movies because it was hungarian audio | 2021-04-09 (Friday 10:30pm EST)
