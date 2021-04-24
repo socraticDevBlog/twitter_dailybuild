@@ -6,6 +6,7 @@ Next movie is [???](https://www.imdb.com/title/tt???????/) on ?????? ??th at ??:
 | ---- | ---- | ------- | ------------ | -------- | ---------- |
 | [The Room](https://www.imdb.com/title/tt0368226/) | 2003 | CA, USA | | | TBA
 | [The Warriors](https://www.imdb.com/title/tt0080120/) | 1979 | NY, USA | | | TBA
+| [Braindead](https://www.imdb.com/title/tt0103873/) | 1992 | Wellington, New Zealand | zuckerberg, Bernie, Tekdude, socraticDev| weird problem with sound fixed in no time by Zuck!|2021-04-23 (Friday 10:30PM)
 | [Weekend at Bernie's](https://www.imdb.com/title/tt0098627/) | 1989 | USA | socraticDev, Zuckerberg, Bernie, egg, prussian | | 2021-04-18 (Sunday 04:30pm EST)
 | [A Gnome named Gnorm](https://www.imdb.com/title/tt0109912) | 1990 | USA | Bernie, socraticDev, winny, Zuckerberg, Tekdude, egg | | 2021-04-16 (Friday 10:30pm EST)
 | [Hackers](https://www.imdb.com/title/tt0113243/) | 1995 | USA | egg, Tekdude, bloom, MrRoach, Zuckerberg, socraticDev | | 2021-04-10 (Saturday 10:30pm EST)  
