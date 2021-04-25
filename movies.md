@@ -1,11 +1,8 @@
 # we riff movies from home 📽️🍿
 
-Next movie is [???](https://www.imdb.com/title/tt???????/) on ?????? ??th at ??:??pm EST (@???).
-
 | Name | Year | Country | Participants | Comments | Watch Date |
 | ---- | ---- | ------- | ------------ | -------- | ---------- |
-| [The Room](https://www.imdb.com/title/tt0368226/) | 2003 | CA, USA | | | TBA
-| [The Warriors](https://www.imdb.com/title/tt0080120/) | 1979 | NY, USA | | | TBA
+|[Clerks](https://www.imdb.com/title/tt0109445/)| 1994 |NJ, USA |IRSSucks, egg, sayjay, Tekdude, Zuckerberg, Bernie, socraticDev, winny|  |2021-04-24 (saturday 10:30pm EST) |
 | [Braindead](https://www.imdb.com/title/tt0103873/) | 1992 | Wellington, New Zealand | zuckerberg, Bernie, Tekdude, socraticDev| weird problem with sound fixed in no time by Zuck!|2021-04-23 (Friday 10:30PM)
 | [Weekend at Bernie's](https://www.imdb.com/title/tt0098627/) | 1989 | USA | socraticDev, Zuckerberg, Bernie, egg, prussian | | 2021-04-18 (Sunday 04:30pm EST)
 | [A Gnome named Gnorm](https://www.imdb.com/title/tt0109912) | 1990 | USA | Bernie, socraticDev, winny, Zuckerberg, Tekdude, egg | | 2021-04-16 (Friday 10:30pm EST)
