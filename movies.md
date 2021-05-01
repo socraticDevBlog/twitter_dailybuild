@@ -2,6 +2,7 @@
 
 | Name | Year | Country | Participants | Comments | Watch Date |
 | ---- | ---- | ------- | ------------ | -------- | ---------- |
+|[Donnie Darko](https://www.imdb.com/title/tt0246578/)| 2001 |USA |Zuckerberg, socraticDev, winny|  socraticDev went to sleep in the middle of the movie|2021-04-30 (saturday 10:30pm EST) |
 |[Clerks](https://www.imdb.com/title/tt0109445/)| 1994 |NJ, USA |IRSSucks, egg, sayjay, Tekdude, Zuckerberg, Bernie, socraticDev, winny|  |2021-04-24 (saturday 10:30pm EST) |
 | [Braindead](https://www.imdb.com/title/tt0103873/) | 1992 | Wellington, New Zealand | zuckerberg, Bernie, Tekdude, socraticDev| weird problem with sound fixed in no time by Zuck!|2021-04-23 (Friday 10:30PM)
 | [Weekend at Bernie's](https://www.imdb.com/title/tt0098627/) | 1989 | USA | socraticDev, Zuckerberg, Bernie, egg, prussian | | 2021-04-18 (Sunday 04:30pm EST)
