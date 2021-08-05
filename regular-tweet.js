@@ -6,7 +6,7 @@ const COMMAND_LINE_ARGS_1_IDX = 2;
 // populate the message you want to tweet, then submit a pull-request
 // ** if there is already a message in there: replace it with yours
 //
-var message = "this account stopped tweeting memes. We'll transition to another kind of daily tweents. Hold on!"
+var message = "OMG!  I love to tweet and all Earth can appreciate my wit😹😹"
 // that's it ! dont worry about the code down under.
 
 // if msg passed as command-line argument, overwrite original message
