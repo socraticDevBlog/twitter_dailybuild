@@ -6,7 +6,7 @@ const COMMAND_LINE_ARGS_1_IDX = 2;
 // populate the message you want to tweet, then submit a pull-request
 // ** if there is already a message in there: replace it with yours
 //
-var message = "the company tasked to make 25 dailybuild gifts just sent Dailybuild a email. they finished making the items and will be shipping them to our headquarters :)"
+var message = "@tacixat DAILYBUILD is sending a smol gift to its user. Please join us and send postal address to receive your limited edition gift (1 out of 25)"
 // that's it ! dont worry about the code down under.
 
 // if msg passed as command-line argument, overwrite original message
