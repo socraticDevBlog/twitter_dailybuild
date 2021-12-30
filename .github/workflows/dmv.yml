@@ -1,5 +1,5 @@
 
-name: meme Twitter message
+name: DMV Twitter message
 
 on:
   schedule:
