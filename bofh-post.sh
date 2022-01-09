@@ -1,5 +1,5 @@
 #!/bin/bash
-START_DATE=$(date --date="November 29, 2020" '+%s')
+START_DATE=$(date --date="January 9, 2022" '+%s')
 TODAY=$(date '+%s')
 DAYS=$(( ($TODAY - $START_DATE) / 86400 ))
 
