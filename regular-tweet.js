@@ -6,7 +6,7 @@ const COMMAND_LINE_ARGS_1_IDX = 2;
 // populate the message you want to tweet, then submit a pull-request
 // ** if there is already a message in there: replace it with yours
 //
-var message = "happy easter from your frens :) :) :) https://dailybuild.org/images/happyeaster2023.png"
+var message = "test 1-2. twitter is now selling monthly basic API subscription for 100$ usd. you best believe we are using the free tier"
 // that's it ! dont worry about the code down under.
 
 // if msg passed as command-line argument, overwrite original message
